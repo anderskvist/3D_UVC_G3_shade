@@ -1,15 +1,15 @@
 // outer diameter
-$outer_d = 59-0.2; // Fixme: measure
+$outer_d = 59.8; // 0.4mm nozzle
 
 // inner diameter
-$inner_d = 57+0.2; // Fixme: measure
+$inner_d = 57.4; // 0.4mm nozzle
 
 // height
 $height = 30; // Fixme: test
 
 // square hole
-$hole_x = 10; // Fixme: measure
-$hole_y = 11; // Fixme: measure
+$hole_x = 10;
+$hole_y = 10;
 
 $fn = 100;
 
